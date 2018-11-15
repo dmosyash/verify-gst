@@ -1,13 +1,13 @@
 {
-  "main.css": "%20//dmosyash.github.io/verify-gst/static/css/main.df6e00d2.chunk.css",
-  "main.js": "%20//dmosyash.github.io/verify-gst/static/js/main.ba806572.chunk.js",
-  "main.js.map": "%20//dmosyash.github.io/verify-gst/static/js/main.ba806572.chunk.js.map",
-  "static/js/1.f25a8ac4.chunk.js": "%20//dmosyash.github.io/verify-gst/static/js/1.f25a8ac4.chunk.js",
-  "static/js/1.f25a8ac4.chunk.js.map": "%20//dmosyash.github.io/verify-gst/static/js/1.f25a8ac4.chunk.js.map",
-  "runtime~main.js": "%20//dmosyash.github.io/verify-gst/static/js/runtime~main.75d48921.js",
-  "runtime~main.js.map": "%20//dmosyash.github.io/verify-gst/static/js/runtime~main.75d48921.js.map",
-  "static/css/main.df6e00d2.chunk.css.map": "%20//dmosyash.github.io/verify-gst/static/css/main.df6e00d2.chunk.css.map",
-  "index.html": "%20//dmosyash.github.io/verify-gst/index.html",
-  "precache-manifest.054b3bd6f667d7fcf8b9102d970a0864.js": "%20//dmosyash.github.io/verify-gst/precache-manifest.054b3bd6f667d7fcf8b9102d970a0864.js",
-  "service-worker.js": "%20//dmosyash.github.io/verify-gst/service-worker.js"
+  "main.css": "/verify-gst/static/css/main.df6e00d2.chunk.css",
+  "main.js": "/verify-gst/static/js/main.81c6f65e.chunk.js",
+  "main.js.map": "/verify-gst/static/js/main.81c6f65e.chunk.js.map",
+  "static/js/1.f25a8ac4.chunk.js": "/verify-gst/static/js/1.f25a8ac4.chunk.js",
+  "static/js/1.f25a8ac4.chunk.js.map": "/verify-gst/static/js/1.f25a8ac4.chunk.js.map",
+  "runtime~main.js": "/verify-gst/static/js/runtime~main.7300b66f.js",
+  "runtime~main.js.map": "/verify-gst/static/js/runtime~main.7300b66f.js.map",
+  "static/css/main.df6e00d2.chunk.css.map": "/verify-gst/static/css/main.df6e00d2.chunk.css.map",
+  "index.html": "/verify-gst/index.html",
+  "precache-manifest.405c0a84db4373782dbcaa0cfd21767f.js": "/verify-gst/precache-manifest.405c0a84db4373782dbcaa0cfd21767f.js",
+  "service-worker.js": "/verify-gst/service-worker.js"
 }

@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "%20//dmosyash.github.io/verify-gst/precache-manifest.054b3bd6f667d7fcf8b9102d970a0864.js"
+  "/verify-gst/precache-manifest.405c0a84db4373782dbcaa0cfd21767f.js"
 );
 
 workbox.clientsClaim();
@@ -28,7 +28,7 @@ self.__precacheManifest = [].concat(self.__precacheManifest || []);
 workbox.precaching.suppressWarnings();
 workbox.precaching.precacheAndRoute(self.__precacheManifest, {});
 
-workbox.routing.registerNavigationRoute("%20//dmosyash.github.io/verify-gst/index.html", {
+workbox.routing.registerNavigationRoute("/verify-gst/index.html", {
   
   blacklist: [/^\/_/,/\/[^\/]+\.[^\/]+$/],
 });
